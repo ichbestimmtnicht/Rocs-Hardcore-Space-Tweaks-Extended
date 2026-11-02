@@ -32,7 +32,7 @@ end
 if settings.startup["no-underground-belts-on-platforms"].value then
   local tech = merge(data.raw.technology["logistics"], {
     name = "underground-belts-on-space-platforms",
-    icon = "__Rocs-Hardcore-Space-Tweaks-Extended-Extended__/graphics/technology/underground-belts-on-space-platforms.png",
+    icon = "__Rocs-Hardcore-Space-Tweaks-Extended__/graphics/technology/underground-belts-on-space-platforms.png",
     icon_size = 256,
     prerequisites = {
       "metallurgic-science-pack",
