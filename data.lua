@@ -9,7 +9,7 @@ if settings.startup["no-underground-pipes-on-platforms"].value then
       "[technology=electromagnetic-science-pack]",
       "[technology=agricultural-science-pack]",
     },
-    icon = "__Rocs-Hardcore-Space-Tweaks__/graphics/technology/underground-pipes-on-space-platforms.png",
+    icon = "__Rocs-Hardcore-Space-Tweaks-Extended__/graphics/technology/underground-pipes-on-space-platforms.png",
     icon_size = 256,
     prerequisites = {
       "space-platform-thruster",
