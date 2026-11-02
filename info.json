@@ -1,0 +1,20 @@
+{
+  "name": "Rocs-Hardcore-Space-Tweaks-Extended",
+  "version": "2.2.6",
+  "factorio_version": "2.1",
+  "title": "Hard Space",
+  "author": "thesixthroc,ichbestimmtnicht",
+  "contact": "Discord: https://discord.gg/VuVhYUBbWE",
+  "description": "Tweaks to Space. Building undergrounds belts and pipes on platforms each require a special new technology. Asteroids spawn with quality. Promethium chunks decay after 5 minutes. Medium asteroids have some physical damage resistance. Asteroid reprocessing recipes no longer accept quality modules.\n\nCertain dependencies are intended to be included by default, but are listed as optional for better customizability. To get the full experience, enable this mod via the Space Age: Hard Mode modpack.",
+  "homepage": "https://foundrygg.com",
+  "space_travel_required": true,
+  "dependencies": [
+    "base >= 2.0.0",
+    "space-age >= 2.0.0",
+    "? Quality-Asteroids-Expanded",
+    "? no-more-asteroid-quality",
+    "? promethium-decay",
+    "? Railguns-Require-Fluoroketone",
+    "(?) Redrawn-Space-Connections"
+  ]
+}

@@ -1,0 +1,154 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.2.6
+Date: ????
+  Changes:
+---------------------------------------------------------------------------------------------------
+Version: 2.2.5
+Date: 2025-12-22
+  Changes:
+    - Replaced quality-asteroids dependency with Quality-Asteroids-Expanded.
+---------------------------------------------------------------------------------------------------
+Version: 2.2.4
+Date: 2025-11-06
+  Info:
+    - Description update.
+---------------------------------------------------------------------------------------------------
+Version: 2.2.3
+Date: 2025-10-01
+  Bugfixes:
+    - Fixed that 'Underground pipes on space platforms' had metallurgic science packs as a prerequisite.
+---------------------------------------------------------------------------------------------------
+Version: 2.2.2
+Date: 2025-10-01
+  Bugfixes:
+    - Fixed that 'Underground pipes on space platforms' listed the science packs incorrectly in its technology description.
+    - Fixed that using '/cheat' triggered a crash if 'Underground pipes on space platforms' was disabled.
+---------------------------------------------------------------------------------------------------
+Version: 2.2.1
+Date: 2025-10-01
+  Bugfixes:
+    - Fixed a crash when loading games with the 'Underground pipes on space platforms' technology disabled.
+    - Fixed that the behavior of pipes and undergrounds on space platforms was altered even if the technologies were disabled.
+---------------------------------------------------------------------------------------------------
+Version: 2.2.0
+Date: 2025-09-27
+  Changes:
+    - The dependencies of this mod are now optional to allow for better control.
+---------------------------------------------------------------------------------------------------
+Version: 2.1.3
+Date: 2025-09-08
+  Changes:
+    - Removed Challenging Pack Logistics dependency (this is being moved to the top level pack).
+---------------------------------------------------------------------------------------------------
+Version: 2.1.2
+Date: 2025-09-05
+  Changes:
+    - Removed 'Planetary Distance Adjustments' as it's conceptually a bit different to the modpack.
+---------------------------------------------------------------------------------------------------
+Version: 2.1.1
+Date: 2025-09-05
+  Changes:
+    - New dependency Challenging Pack Logistics.
+---------------------------------------------------------------------------------------------------
+Version: 2.1.0
+Date: 2025-09-04
+  Changes:
+    - The 'Underground pipes on space platforms' technology is now unlocked by any one of the V/F/G tech trees, not just Vulcanus.
+    - 'Planetary Distance Adjustments' is now a hard dependency.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.3
+Date: 2025-08-14
+  Changes:
+    - New dependency: Railguns Require Fluoroketone.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.2
+Date: 2025-06-04
+  Changes:
+    - Renamed mod from 'Space Undergrounds Require Research' to the wider mod, 'Hard Space'. Existing space-related features in the top-level modpack have been moved to this mod.
+    - Added new dependency No More Asteroid Quality.
+    - Space routes are now 50% longer.
+---------------------------------------------------------------------------------------------------
+Version: 1.2.3
+Date: 2025-04-03
+  Info:
+    - Added Space Age tag.
+---------------------------------------------------------------------------------------------------
+Version: 1.2.2
+Date: 2025-03-08
+  Changes:
+    - Fixed that underground pipes on space platforms (and consequently the belts technology) was unavailable for research.
+---------------------------------------------------------------------------------------------------
+Version: 1.2.1
+Date: 2025-02-20
+  Changes:
+    - Tweaked the cost of the 'Underground pipes on space platforms' technology.
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: ????
+  Changes:
+    - 'Underground pipes on space platforms' technology moved to Vulcanus tech tree.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.6
+Date: 2025-01-02
+  Locale:
+    - Added Russian localization.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.5
+Date: 2024-11-30
+  Changes:
+    - Information update.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.4
+Date: 2024-11-30
+  Bugfixes:
+    - Fixed one of the technology icons.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 2024-11-30
+  Graphics:
+    - New icons for space platform underground technologies by Tserup.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 2024-11-28
+  Bugfixes:
+    - Fixed exploit in which undergrounds could be built in the process of super force building entities.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2024-11-28
+  Info:
+    - Mod setting names updated.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 24.11.2024
+  Changes:
+    - Added technology to place undergrounds belts on space platforms, and for underground pipes, both needed by default.
+    - Mod renamed.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 18.11.2024
+  Modding:
+    - All changes apart from preventing undergrounds on platforms have been moved to the main Space Age: Hardcore Mode mod. This mod has been renamed. Apologies for the janky internal name.
+  Features:
+    - Setting for restricting underground pipes.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 18.11.2024
+  Ease of use:
+    - Tweaked asteroid HP buff.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 18.11.2024
+  Ease of use:
+    - Tweaked asteroid HP buff.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 18.11.2024
+  Ease of use:
+    - Removed dependencies on other mods.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 18.11.2024
+  Features:
+    - Setting to prevent building undergrounds on space platforms.
+    - Setting to adjust the weight multiplier of space platform foundations.
+    - Setting to adjust the health multiplier of asteroids.
